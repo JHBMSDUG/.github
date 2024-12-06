@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 We meet every 2nd Tuesday at Microsoft South Africa's offices for an in person meetup. But until then connect with us by:
-🤜🤛 Joining [JHBMSDUG Meetup](https://www.meetup.com/johannesburg-ms-dev-user-group/)
-🤜🤛 Submit a talk for one of meetups on [Sessionize](https://sessionize.com/johannesburg-ms-developer-user-group/)
-🤜🤛 Follow us on [X](https://x.com/jhbmsdug)
+* Joining [JHBMSDUG Meetup](https://www.meetup.com/johannesburg-ms-dev-user-group/)
+* Submit a talk for one of meetups on [Sessionize](https://sessionize.com/johannesburg-ms-developer-user-group/)
+* Follow us on [X](https://x.com/jhbmsdug)
 
 We are your local Johannesburg developer community focussed but not limited to Microsft technologies for:
 * .NET and .NET Core, 
