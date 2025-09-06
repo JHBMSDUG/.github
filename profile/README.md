@@ -2,6 +2,7 @@
 
 We meet every 2nd Tuesday at Microsoft South Africa's offices for an in person meetup. But until then connect with us by:
 * Joining [JHBMSDUG Meetup](https://www.meetup.com/johannesburg-ms-dev-user-group/)
+* follow us on [LinkedIn](http://linkedin.com/company/johannesburg-ms-developer-user-group)
 * Submit a talk for one of meetups on [Sessionize](https://sessionize.com/johannesburg-ms-developer-user-group/)
 * Follow us on [X](https://x.com/jhbmsdug)
 
